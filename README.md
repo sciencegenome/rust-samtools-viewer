@@ -6,6 +6,7 @@
 - general note: Incase of Golang and RUST, please see the last commit message and if it says compiled binary then it is completed or else still in development version.
 - This feature is not present in samtools. 
 
+![](https://github.com/applicativesystem/rust-samtools-viewer/blob/main/rust-samtools-viewer.png)
 - explanation : The first read related to the normal phenotype, the second to the diseased one and the third one to the mutant and so on. 
 
 ```
