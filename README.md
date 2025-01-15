@@ -3,7 +3,7 @@
 - rust samtools view. 
 - given an sam alignment file and a give range of the coordinate from the genome, will produce a colour coded alignment for the reads aligned in that region. 
 - Especially important for showing the reads specific to abundance, metabolites, genomic association to phenotypes.
-- general note: Incase of Golang and RUST, please see the last commit message and if it says compiled binary then it is completed or else still in development version.
+- please see the last commit message and if it says compiled binary then it is completed or else still in development version.
 - This feature is not present in samtools. 
 
 ![](https://github.com/applicativesystem/rust-samtools-viewer/blob/main/rust-samtools-viewer.png)
